@@ -8,4 +8,4 @@ nav_order: 2
 calendar: true
 ---
 
-*Coming soon.*
+_Coming soon._

@@ -9,10 +9,10 @@ nav_order: 1
 
 ## Working Papers
 
-*Coming soon.*
+_Coming soon._
 
 ---
 
 ## Works in Progress
 
-*Coming soon.*
+_Coming soon._

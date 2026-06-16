@@ -2,10 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  DPhil Candidate, <a href="https://www.economics.ox.ac.uk/">University of Oxford</a> (Magdalen College) ·
-  Associate Researcher, <a href="https://www.lse.ac.uk/management">LSE Department of Management</a> ·
-  <a href="https://foersterlab.com/">FLAIR Research Group</a>
+subtitle:
 
 profile:
   align: center
@@ -33,4 +30,4 @@ and [Jakob Foerster](https://www.jakobfoerster.com/).
 
 I develop statistical and machine learning methods for high-dimensional empirical research, and study the theoretical foundations of both ML and economic modelling. I apply these tools to questions in political economy, including political representation, belief formation, and institutional change.
 
-I help organise the [Machine Learning and Economics group at Oxford](https://maxkasy.github.io/home/ML_Econ_Oxford/), and am a co-founder of the UK Graduate Econometrics Network (UK-GEN). 
+I help organise the [Machine Learning and Economics group at Oxford](https://maxkasy.github.io/home/ML_Econ_Oxford/), and am a co-founder of the UK Graduate Econometrics Network (UK-GEN).
