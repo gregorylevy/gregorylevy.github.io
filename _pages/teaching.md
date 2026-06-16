@@ -1,12 +1,12 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
 nav: true
 nav_order: 3
 ---
 
-## Upcoming
+<!-- ## Upcoming
 
 **Stipendiary Lecturer in Economics — Somerville College, University of Oxford** *(Michaelmas 2026)*
 
@@ -20,7 +20,7 @@ Two courses for visiting students from the US:
 
 **Teaching Assistant, Core Econometrics — MPhil in Economics, University of Oxford** *(2026 – 2027)*
 
----
+--- -->
 
 ## Teaching Experience
 
