@@ -17,6 +17,7 @@ announcements:
   enabled: true
   scrollable: true
   limit: 7
+  title: Updates
 
 latest_posts:
   enabled: false
@@ -26,8 +27,8 @@ latest_posts:
   <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Gregory Levy" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" />
 </div>
 
-Hi there! I am a DPhil candidate in Economics at the University of Oxford (Magdalen College), affiliated
-with the LSE Department of Management and FLAIR. My supervisors are
+Hi there! I am a DPhil candidate in Economics at the University of Oxford (Magdalen College). I am also affiliated
+with [FLAIR](https://foersterlab.com/) in Oxford, as well as the LSE Department of Management. My supervisors are
 [Maximilian Kasy](https://maxkasy.github.io/home/),
 [Noam Yuchtman](https://www.lse.ac.uk/people/noam-yuchtman),
 and [Jakob Foerster](https://www.jakobfoerster.com/).
