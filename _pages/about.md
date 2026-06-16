@@ -24,7 +24,7 @@ latest_posts:
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Gregory Levy" style="max-width: 250px;" />
+  <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Gregory Levy" style="width: 250px; max-width: 100%;" />
 </div>
 
 Hi, welcome to my website! 
