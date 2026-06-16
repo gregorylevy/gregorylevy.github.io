@@ -8,7 +8,7 @@ subtitle: >
   <a href="https://foersterlab.com/">FLAIR Research Group</a>
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: false
   more_info:
@@ -19,7 +19,7 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: 7
 
 latest_posts:
   enabled: false
@@ -33,4 +33,4 @@ and [Jakob Foerster](https://www.jakobfoerster.com/).
 
 I develop statistical and machine learning methods for high-dimensional empirical research, and study the theoretical foundations of both ML and economic modelling. I apply these tools to questions in political economy, including political representation, belief formation, and institutional change.
 
-I am a co-founder of the UK Graduate Econometrics Network (UK-GEN) and help organise the Machine Learning and Economics group at Oxford.
+I help organise the [Machine Learning and Economics group at Oxford](https://maxkasy.github.io/home/ML_Econ_Oxford/), and am a co-founder of the UK Graduate Econometrics Network (UK-GEN). 
