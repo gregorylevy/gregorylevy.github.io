@@ -31,6 +31,6 @@ with the LSE Department of Management and FLAIR. My supervisors are
 [Noam Yuchtman](https://www.lse.ac.uk/people/noam-yuchtman),
 and [Jakob Foerster](https://www.jakobfoerster.com/).
 
-I develop statistical and machine learning methods for high-dimensional empirical research, and study the theoretical foundations of both ML and economic modelling. I apply these tools to questions in political economy, including political representation, belief formation, and institutional change.  
+I develop statistical and machine learning methods for high-dimensional empirical research, and study the theoretical foundations of both ML and economic modelling. I apply these tools to questions in political economy, including political representation, belief formation, and institutional change.
 
 I am a co-founder of the UK Graduate Econometrics Network (UK-GEN) and help organise the Machine Learning and Economics group at Oxford.
