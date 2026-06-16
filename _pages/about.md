@@ -17,6 +17,7 @@ announcements:
   enabled: true
   scrollable: true
   limit: 7
+  title: Updates
 
 latest_posts:
   enabled: false
