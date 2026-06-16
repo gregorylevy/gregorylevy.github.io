@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TEACHING
+title: Teaching
 permalink: /teaching/
 nav: true
 nav_order: 3
@@ -22,9 +22,11 @@ Two courses for visiting students from the US:
 
 --- -->
 
-<br>
+&nbsp;
 
 ## Teaching Experience
+
+&nbsp;
 
 **Out-of-College Tutor in Economics — Magdalen College, University of Oxford** *(2026 – present)*
 
@@ -34,7 +36,7 @@ Supervisor for an undergraduate thesis in economics.
 
 Tutorials in Preliminary Microeconomics (Michaelmas 2024) and Core Microeconomics (Trinity 2025, Michaelmas 2025). 
 
-Also led an extracurricular Machine Learning and Economics discussion group for Magdalen undergraduates (Michaelmas 2025 – Hilary 2026).
+Also led an extracurricular Machine Learning and Economics discussion group for Magdalen undergraduates (Michaelmas 2025, Hilary 2026).
 
 **Academic Tutor — University of Queensland** *(2017 – 2022)*
 
