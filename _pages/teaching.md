@@ -21,9 +21,7 @@ Two courses for visiting students from the US:
 **Teaching Assistant, Core Econometrics — MPhil in Economics, University of Oxford** *(2026 – 2027)*
 
 --- -->
-&nbsp;
-## Teaching Experience
-&nbsp;
+
 **Out-of-College Tutor in Economics — Magdalen College, University of Oxford** *(2026 – present)*
 
 Supervisor for an undergraduate thesis in economics.

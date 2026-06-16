@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 ## Machine Learning Theory
-&nbsp;
+
 **A Framework for Optimal High-Dimensional Regularisation**
 
 Develops a framework that for formally identifying which regularisation method is optimal according to dataset properties and the researcher's objective. Introduces a novel estimator, the Manifold-adaptive Entropic Shrinkage Algorithm (MESA), an $\ell_p$ estimator that exhibits both stability and sparsity in challenging environments. MESA provably outperforms LASSO, Ridge, and Elastic Net in high-dimensional settings with significant correlation between variables, which is demonstrated with an empirical application to large-scale political text data. 
