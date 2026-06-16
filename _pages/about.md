@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: center
-  image: prof_pic.jpg
+  image:
   image_circular: false
   more_info:
 
@@ -21,6 +21,10 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Gregory Levy" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" />
+</div>
 
 Hi there! I am a DPhil candidate in Economics at the University of Oxford (Magdalen College), affiliated
 with the LSE Department of Management and FLAIR. My supervisors are
