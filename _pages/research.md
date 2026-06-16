@@ -7,9 +7,7 @@ nav_order: 2
 ---
 
 ## Machine Learning Theory
-
 &nbsp;
-
 **A Framework for Optimal High-Dimensional Regularisation**
 
 Develops a framework that for formally identifying which regularisation method is optimal according to dataset properties and the researcher's objective. Introduces a novel estimator, the Manifold-adaptive Entropic Shrinkage Algorithm (MESA), an $\ell_p$ estimator that exhibits both stability and sparsity in challenging environments. MESA provably outperforms LASSO, Ridge, and Elastic Net in high-dimensional settings with significant correlation between variables, which is demonstrated with an empirical application to large-scale political text data. 
@@ -21,7 +19,7 @@ Develops a framework that for formally identifying which regularisation method i
 
 Demonstrates that ReLU neural networks can be understood as near-optimal continuous piecewise-linear approximators. Introduces a computable measure of the inherent complexity of a learning problem, and applies optimisation theory to explain when and why neural networks predict well. A meta-learner approach allows for principled architecture selection by using observable dataset features to predict depth and width requirements, given a performance target.
 
-<br><br>
+<br>
 
 ## Political Economy
 
@@ -40,7 +38,7 @@ Provides a new formalisation of the idea that political polarisation can be trac
 **Critical Junctures and Institutional Uncertainty**
 *(with Michael Callen, Jonathan Weigel, and Noam Yuchtman)*
 
-Presents a new empirical approach to detecting critical junctures — periods during which multiple institutional futures become possible — as they unfold, using historical newspaper articles. Applies a large language model classifier to $\approx 13$ million articles from The Times of London (1800–2019), producing a long-run text-based measure of institutional uncertainty that captures elevated uncertainty even in periods without eventual institutional change. Forthcoming in the Handbook of Political Economy (Acemoglu & Robinson, eds.). 
+Presents a new empirical approach to detecting critical junctures — periods during which multiple institutional futures become possible — as they unfold, using historical newspaper articles. Applies a large language model classifier to $\approx$ 13 million articles from The Times of London (1800–2019), producing a long-run text-based measure of institutional uncertainty that captures elevated uncertainty even in periods without eventual institutional change. Forthcoming in the Handbook of Political Economy (Acemoglu & Robinson, eds.). 
 
 ---
 
