@@ -17,7 +17,7 @@ Develops a framework that for formally identifying which regularisation method i
 **Neural Networks as Optimal Continuous Piecewise-Linear Approximators**
 *(with Jakob Foerster)*
 
-Demonstrates that ReLU neural networks can be understood as near-optimal continuous piecewise-linear approximators. Introduces a computable measure of the inherent complexity of a learning problem, and applies optimisation theory to explain when and why neural networks predict well. A meta-learner approach allows for principled architecture selection by using observable dataset features to predict depth and width requirements, given a performance target.
+Demonstrates that ReLU neural networks can be understood as near-optimal continuous piecewise-linear approximators. Introduces a computable measure of the inherent complexity of a learning problem, and applies optimisation theory to explain when and why neural networks predict well. A meta-learner approach allows for principled architecture selection by using observable dataset features to predict depth and width requirements given a performance target.
 
 <br>
 

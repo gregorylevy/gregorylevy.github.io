@@ -27,7 +27,7 @@ latest_posts:
   <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Gregory Levy" style="width: 350px; max-width: 100%;" />
 </div>
 
-Hello, welcome to my website! 
+Hello, and welcome to my website! 
 
 I am a DPhil candidate in Economics at the University of Oxford (Magdalen College). I am also a member of [FLAIR](https://foersterlab.com/), and a research affiliate at the Department of Management at the London School of Economics. My supervisors are
 Maximilian Kasy, Noam Yuchtman, and Jakob Foerster.
