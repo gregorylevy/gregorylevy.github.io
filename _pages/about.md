@@ -29,8 +29,7 @@ latest_posts:
 
 Hello, and welcome to my website! 
 
-I am a DPhil candidate in Economics at the University of Oxford (Magdalen College). I am also a member of [FLAIR](https://foersterlab.com/), and a research affiliate at the Department of Management at the London School of Economics. My supervisors are
-Maximilian Kasy, Noam Yuchtman, and Jakob Foerster.
+I am a DPhil candidate in Economics at the University of Oxford (Magdalen College). I am also a member of the [British Open-Ended Learning and Discovery Lab (BOLD)](https://bold-lab.ai/), and a research affiliate in the Department of Management at the London School of Economics. My supervisors are Maximilian Kasy, Noam Yuchtman, and Jakob Foerster.
 
 My main interests are in machine learning theory and empirical political economy. My research aims to develop methods in high-dimensional econometrics, natural language processing, and deep learning, and to apply these to study political institutions and representation. I am also interested in the theoretical foundations of modern statistical learning, and how to build useful models in science.  
 
