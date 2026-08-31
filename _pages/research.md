@@ -38,7 +38,7 @@ Provides a new formalisation of the idea that political polarisation can be trac
 **Critical Junctures and Institutional Uncertainty**
 *(with Michael Callen, Jonathan Weigel, and Noam Yuchtman)*
 
-Presents a new empirical approach to detecting critical junctures — periods during which multiple institutional futures become possible — as they unfold, using historical newspaper articles. Applies a large language model classifier to $\approx$ 13 million articles from The Times of London (1800–2019), producing a long-run text-based measure of institutional uncertainty that captures elevated uncertainty even in periods without eventual institutional change. Forthcoming in the Handbook of Political Economy (Acemoglu & Robinson, eds.). 
+Presents a new empirical approach to detecting critical junctures — periods during which multiple institutional futures become possible — as they unfold, using historical newspaper articles. Applies a large language model classifier to $\approx$ 13 million articles from The Times of London (1800–2019), producing a long-run text-based measure of institutional uncertainty that captures elevated uncertainty even in periods without eventual institutional change. Forthcoming in the Handbook of Political Economy (Acemoglu & Robinson, eds.). Appeared as an [NBER Featured Working Paper (Aug 31, 2026)](https://www.nber.org/papers/w35545). 
 
 ---
 
