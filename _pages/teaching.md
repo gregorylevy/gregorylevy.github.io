@@ -6,7 +6,9 @@ nav: true
 nav_order: 3
 ---
 
-<!-- ## Upcoming
+**Graduate Teaching Assistant — Department of Economics, University of Oxford** *(2026 – 2027)*
+
+Tutorials for Core Econometrics within the MPhil in Economics. 
 
 **Stipendiary Lecturer in Economics — Somerville College, University of Oxford** *(Michaelmas 2026)*
 
@@ -17,10 +19,6 @@ Core Microeconomics tutorials and undergraduate PPE admissions.
 Two courses for visiting students from the US:
 - Political Economy of AI and Global Governance
 - Economics of Machine Learning
-
-**Teaching Assistant, Core Econometrics — MPhil in Economics, University of Oxford** *(2026 – 2027)*
-
---- -->
 
 **Out-of-College Tutor in Economics — Magdalen College, University of Oxford** *(2026 – present)*
 
