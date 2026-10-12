@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-***Current***
+***Current:***
 
 **Graduate Teaching Assistant — Department of Economics, University of Oxford** *(2026 – 2027)*
 
@@ -28,7 +28,7 @@ Supervisor for an undergraduate thesis in economics.
 
 <br>
 
-***Previous***
+***Previous:***
 
 **Stipendiary Lecturer in Economics — Magdalen College, University of Oxford** *(2024 – 2025)*
 
