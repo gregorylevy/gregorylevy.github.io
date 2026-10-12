@@ -6,6 +6,8 @@ nav: true
 nav_order: 3
 ---
 
+***Current***
+
 **Graduate Teaching Assistant — Department of Economics, University of Oxford** *(2026 – 2027)*
 
 Tutorials for Core Econometrics within the MPhil in Economics. 
@@ -23,6 +25,10 @@ Two courses for visiting students from the US:
 **Out-of-College Tutor in Economics — Magdalen College, University of Oxford** *(2026 – present)*
 
 Supervisor for an undergraduate thesis in economics.
+
+<br>
+
+***Previous***
 
 **Stipendiary Lecturer in Economics — Magdalen College, University of Oxford** *(2024 – 2025)*
 
